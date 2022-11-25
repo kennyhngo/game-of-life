@@ -19,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -55,5 +55,5 @@
   "bugs": {
     "url": "https://github.com/kennyhngo/game-of-life/issues"
   },
-  "homepage": "https://github.com/kennyhngo/game-of-life"
+  "homepage": "https://kennyhngo.github.io/game-of-life/"
 }
