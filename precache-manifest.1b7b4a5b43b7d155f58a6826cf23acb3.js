@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "75de0982072deae17276",
-    "url": "/kennyhngo/game-of-life/static/css/main.89ac6c0f.chunk.css"
+    "revision": "2a0719458eb8591fd6ea",
+    "url": "/kennyhngo/game-of-life/static/css/main.f1f47771.chunk.css"
   },
   {
-    "revision": "75de0982072deae17276",
-    "url": "/kennyhngo/game-of-life/static/js/main.75de0982.chunk.js"
+    "revision": "2a0719458eb8591fd6ea",
+    "url": "/kennyhngo/game-of-life/static/js/main.2a071945.chunk.js"
   },
   {
     "revision": "2998caf54286a93ccb62",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/kennyhngo/game-of-life/static/js/runtime~main.efd3089c.js"
   },
   {
-    "revision": "fb6ac664a19c84169768cca53bba29be",
+    "revision": "1a5d7bb3fde20585de2d27ab536d2e5b",
     "url": "/kennyhngo/game-of-life/index.html"
   }
 ];
